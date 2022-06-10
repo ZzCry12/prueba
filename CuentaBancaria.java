@@ -1,7 +1,7 @@
 package deparBank;
 
 public class CuentaBancaria {
-
+//prueba
     private String iban, titularnombre, titularapellido;
     private double saldo;
     private double[] movimiento = new double[100];
